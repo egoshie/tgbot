@@ -1,0 +1,5 @@
+pyrogram==2.0.105
+pytgcalls==2.4.0
+ntgcalls==0.9.7
+ffmpeg-python==0.2.0
+Flask==2.3.7
